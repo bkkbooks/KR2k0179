@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2k0179/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甄烈湘州記太平御覽引三事石形似燕大小如一山明雲淨即翩翩飛翔卷四十九石鷰山石石形似鷰大小如一山明淨即頡頏飛翔卷一百七十一荊大明中望氣者云湘東有天子氣遣使者巡視斬崗以壓之遂乃湘東王為天子卷一百七十一
+  hash: sha256:b0054ab8866ffc465c7a39de2d17346ffbe6e83e860e0019383b092ce61825fa
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2k0179_CHANT_001-1a.1-h}
+metadata:
+  title: 湘州記一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2k0179.xml
+hash: sha256:eaef5ac439595a554a8ffde86eceda92e07224dad9bd472db3a85030707f2412
