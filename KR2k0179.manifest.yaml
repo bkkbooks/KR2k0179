@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0179_001.yaml, hash: 'sha256:b4e0a7787666f9a7d32bd2285f8e968ec146843126c7f9ff96589cbcbb4ece5f'}
+  - {seq: 1, filename: KR2k0179_001.yaml, hash: 'sha256:eaef5ac439595a554a8ffde86eceda92e07224dad9bd472db3a85030707f2412'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0179_001.markers.yaml, hash: 'sha256:4aa6f27509363f0b104d9960927ff2c3a407b9b84fba4f9454f0a1efd0f615e3'}
+  - {seq: 1, role: markers, filename: assets/KR2k0179_001.markers.yaml, hash: 'sha256:5eb96b63f22846f3fea3666ed932a9a0079ab50bdd764c182ea3ca85321cbb9f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 甄烈湘州記
   type: section
   level: 1
-hash: sha256:de98770e8982c5a2e46b9e468ad5c969b863a5c973e6062b6d64414abc7f9986
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4d02186123afe51acc229fbea25915951ace20f60e42693ae963497f78df06ee
